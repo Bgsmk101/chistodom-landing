@@ -2,7 +2,7 @@
 
 Адаптивный коммерческий лендинг для выездной химчистки мебели и ковров. Проект создан как демонстрационная работа для портфолио.
 
-**Рабочая версия:** [chistodom-cleaning.sadiethompsonsicp4-6.chatgpt.site](https://chistodom-cleaning.sadiethompsonsicp4-6.chatgpt.site)
+**Рабочая версия:** [Чистодом сайт](https://bgsmk101.github.io/chistodom-landing/#prices)
 
 ## Что реализовано
 
